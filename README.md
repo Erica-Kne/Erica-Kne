@@ -36,40 +36,13 @@
 * 🔌 JDBC
 * 🌐 APIs REST
 * 📦 JSON
-* 🧪 Postman
-* 🐳 Docker
-* ☁️ AWS
-
 ---
 
-## 💻 Projetos
-
-### 📦 Sistema de Gerenciamento de Estoque
-
-Sistema desenvolvido em **Java** com integração ao **MySQL**, utilizando JDBC e arquitetura baseada em DAO.
-
-Principais funcionalidades:
-
-* ➕ Cadastro de produtos
-* 🔎 Consulta de produtos
-* ✏️ Atualização de produtos
-* 🗑️ Exclusão de produtos
-* 📦 Controle de quantidade em estoque
-* 💰 Gerenciamento de preços
-* 🗄️ Persistência dos dados no MySQL
 
 **Tecnologias:** Java • JDBC • MySQL • SQL • Git
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erica-Kne&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Kne&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🔥 Contribuições
 
