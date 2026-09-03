@@ -1,53 +1,96 @@
-# Olá! Eu sou a Érica Knevitz 😊
+# Olá! Eu sou a Érica Knevitz 👋
 
-💬 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e desenvolvimento **backend**.
-Atualmente focada em **Java e Spring Boot**, estudando também **banco de dados MySQL** e boas práticas de programação.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e desenvolvimento de software.
 
-### 🚀 Tecnologias que estou aprendendo
+💻 Atualmente, estou focada em **desenvolvimento backend com Java**, estudando **Spring Boot, MySQL, JDBC e APIs REST**, além de boas práticas de programação e orientação a objetos.
 
-* ☕ Java
-* 🌱 Spring Framework
-* 🗄️ MySQL
-
-### 🎯 Objetivo
-
-Conseguir uma vaga como **estagiária desenvolvedora**, crescer profissionalmente e contribuir em projetos desafiadores.
-
-📫 **Contatos:**
-
-* ✉️ E-mail: [ericavictoria_knevitz@outlook.com](mailto:ericavictoria_knevitz@outlook.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/erica1712/
+🚀 Estou em busca de uma oportunidade de **estágio em desenvolvimento**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir na área de tecnologia.
 
 ---
 
-### 🚀 Tecnologias que uso
+## 🛠️ Tecnologias
+
+### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge\&logo=java\&logoColor=white)
+
+### Banco de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📚 Atualmente estudando
+
+* ☕ Java e Programação Orientada a Objetos
+* 🌱 Spring Boot
+* 🗄️ MySQL e SQL
+* 🔌 JDBC
+* 🌐 APIs REST
+* 📦 JSON
+* 🧪 Postman
+* 🐳 Docker
+* ☁️ AWS
+
+---
+
+## 💻 Projetos
+
+### 📦 Sistema de Gerenciamento de Estoque
+
+Sistema desenvolvido em **Java** com integração ao **MySQL**, utilizando JDBC e arquitetura baseada em DAO.
+
+Principais funcionalidades:
+
+* ➕ Cadastro de produtos
+* 🔎 Consulta de produtos
+* ✏️ Atualização de produtos
+* 🗑️ Exclusão de produtos
+* 📦 Controle de quantidade em estoque
+* 💰 Gerenciamento de preços
+* 🗄️ Persistência dos dados no MySQL
+
+**Tecnologias:** Java • JDBC • MySQL • SQL • Git
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erica-kne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erica-kne&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Erica-Kne&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Kne&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### 🧠 Linguagens mais utilizadas
+---
+
+## 🔥 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erica-kne&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://streak-stats.demolab.com/?user=Erica-Kne&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📈 Contribuições recentes
+---
+
+## 📫 Entre em contato
+
+📧 **E-mail:** [ericavictoria_knevitz@outlook.com](mailto:ericavictoria_knevitz@outlook.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/erica1712/
+
+🐙 **GitHub:**
+https://github.com/Erica-Kne
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erica-kne&show_icons=true&theme=tokyonight&hide_title=false&hide=issues,prs" />
+  Obrigada pela visita! 😊
 </p>
-
-
